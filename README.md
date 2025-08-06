@@ -1,4 +1,4 @@
-🧾 Problem Statement: Healthcare Claims Audit System
+Problem Statement: Healthcare Claims Audit System
 The healthcare industry faces significant financial challenges due to inaccurate billing, fraudulent claims, and payment errors. Insurance companies and healthcare payers often struggle to ensure that claims are processed accurately and that payments are aligned with billed services.
 
 This project presents a simplified Healthcare Claims Audit System built using Microsoft Access to simulate a real-world solution for managing and auditing healthcare claims. The goal is to:
